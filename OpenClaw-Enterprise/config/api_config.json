@@ -1,0 +1,5 @@
+﻿{
+    "Endpoint":  "local",
+    "Provider":  "Ollama (Local)",
+    "ApiKey":  ""
+}
